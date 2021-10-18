@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from '././components/HospitalManagement/App';
+import App from '././components/aws_s3_practice/home';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

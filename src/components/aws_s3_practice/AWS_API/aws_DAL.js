@@ -1,8 +1,8 @@
 const AWS = require('aws-sdk')
 const fs = require('fs')
 const s3 = new AWS.S3({
-    accessKeyId : "AKIAQID3PYRIPZQDTH4S",
-    secretAccessKey : "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",
+    // accessKeyId : "AKIAQID3PYRIPZQDTH4S",
+    // secretAccessKey : "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",
     // apiVersion: '2006-03-01'
 });
 var bucketParams = {
